@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>css (13).bmp</filename>
+	<path>E:\360downloads\test_image\css (13).bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-parking sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>156</ymin>
+			<xmax>407</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>253</ymin>
+			<xmax>603</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>gzs (209).bmp</filename>
+	<path>E:\360downloads\test_image\gzs (209).bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-parking sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>93</ymin>
+			<xmax>271</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>334</ymin>
+			<xmax>164</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

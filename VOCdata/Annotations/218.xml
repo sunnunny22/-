@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>tsd (1021).JPG</filename>
+	<path>E:\360downloads\test_image\tsd (1021).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>1404</ymin>
+			<xmax>701</xmax>
+			<ymax>1704</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no-parking sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1350</xmin>
+			<ymin>851</ymin>
+			<xmax>1464</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+</annotation>

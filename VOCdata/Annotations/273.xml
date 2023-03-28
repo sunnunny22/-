@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>tsd (999).JPG</filename>
+	<path>E:\360downloads\test_image\tsd (999).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>1441</ymin>
+			<xmax>838</xmax>
+			<ymax>1651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>1461</ymin>
+			<xmax>1319</xmax>
+			<ymax>1551</ymax>
+		</bndbox>
+	</object>
+</annotation>

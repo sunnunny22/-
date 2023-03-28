@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>083.jpg</filename>
+	<path>D:\Desk\yolov5\yolov5-master\VOCdata\images\083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-parking sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>15</ymin>
+			<xmax>197</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>103</ymin>
+			<xmax>57</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

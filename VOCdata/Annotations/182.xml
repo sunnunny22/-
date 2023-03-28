@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>hsd (95).bmp</filename>
+	<path>E:\360downloads\test_image\hsd (95).bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-parking sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>165</ymin>
+			<xmax>530</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/yolov5-master/VOCdata/dataSet_path/train.txt
+val: /content/drive/MyDrive/yolov5-master/VOCdata/dataSet_path/train.txt
+# number of classes
+nc: 2
+
+# class names
+names: ["no-parking", "car"]
